@@ -1,2 +1,2 @@
-# C-programming
-100 days of coding
+# 100Days of coding
+100 days of code in C Language
